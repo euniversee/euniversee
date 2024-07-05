@@ -2,8 +2,7 @@
 - 👀 I’m interested in `automation`
 - 🌱 I’m currently learning `Python`
 - 🏠 Live in `Wonogiri, Indonesia`
-- - 🌏 Languages
-  - 🇮🇩 Indonesian
+- 🌏 Languages: 🇮🇩 Indonesian
 
 <!---
 euniversee/euniversee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
